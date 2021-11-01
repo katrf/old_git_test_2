@@ -1,2 +1,2 @@
 Programming is fun!
-TOP is a well structured learning resource for programming.
+The Odin Project is a well structured learning resource for programming.
